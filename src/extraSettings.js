@@ -16,3 +16,6 @@ let fruitSlowDown = false;
 
 // 开启弹窗，暂不支持
 let selectModal = false;
+
+// 修改网页标题：将 "合成大西瓜" 进行替换
+document.getElementsByTagName("title")[0].innerText = '合成中矿大';
